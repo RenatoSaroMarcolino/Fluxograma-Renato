@@ -1,0 +1,6 @@
+body{
+    background: blue;
+    color: black;
+    font-family: Arial, Helvetica, sans;
+    display: flex;
+}
