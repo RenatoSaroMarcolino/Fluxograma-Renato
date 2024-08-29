@@ -1,7 +1,7 @@
 body {
     background: rgb(176, 176, 248);
     color: rgb(15, 13, 143);
-    font-size: larger;
+    font-size: 50px;
     font-family: Arial, Helvetica, sans-serif;
     display: flex;
     justify-content: center;
